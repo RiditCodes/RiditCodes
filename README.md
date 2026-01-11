@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on optimizing my code.
-- 🌱 I’m currently learning Github and C++.
+- 🌱 I’m currently learning Github and Java.
 - 👯 I’m looking to collaborate on Python-based projects.
 - 🤔 I’m looking for help with Github.
 - 💬 Ask me about anything.
